@@ -1,0 +1,7 @@
+train: /home/sai/YOLOv8_Segmentation_Custom/train
+val: /home/sai/YOLOv8_Segmentation_Custom/test
+
+nc: 2
+
+names: ['Absorbed Region', 'water droplet'] 
+
